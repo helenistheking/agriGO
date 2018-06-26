@@ -1,0 +1,5 @@
+GO_Term,Description,pan1/pan1,pan1/+,B73
+GO:0009521,photosystem,NA,NA,0.011
+GO:0009523,photosystem II,NA,NA,0.011
+GO:0048046,apoplast,0.0037,NA,NA
+GO:0005576,extracellular region,0.0095,NA,NA

@@ -1,0 +1,39 @@
+GO_Term,Description,pan1/pan1,pan1/+,B73
+GO:0003700,"transcription factor activity, sequence-specific DNA binding",0.038,9.50E-07,9.40E-06
+GO:0001071,nucleic acid binding transcription factor activity,0.038,9.50E-07,9.40E-06
+GO:0046906,tetrapyrrole binding,0.019,0.00027,1.60E-05
+GO:0004497,monooxygenase activity,NA,4.40E-05,1.60E-05
+GO:0016705,"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen",NA,3.20E-05,3.60E-05
+GO:0004364,glutathione transferase activity,0.04,0.0066,7.90E-05
+GO:0046872,metal ion binding,0.015,5.10E-05,0.00027
+GO:0043169,cation binding,0.015,5.10E-05,0.00027
+GO:0020037,heme binding,NA,3.00E-04,0.00027
+GO:0045548,phenylalanine ammonia-lyase activity,NA,9.70E-06,0.00027
+GO:0005506,iron ion binding,NA,3.20E-05,0.00042
+GO:0043167,ion binding,0.015,6.20E-05,0.00044
+GO:0043565,sequence-specific DNA binding,NA,0.00038,0.00044
+GO:0016491,oxidoreductase activity,0.015,0.0066,0.0013
+GO:0016841,ammonia-lyase activity,NA,4.80E-05,0.0013
+GO:0016765,"transferase activity, transferring alkyl or aryl (other than methyl) groups",NA,0.026,0.0013
+GO:0003677,DNA binding,0.019,5.10E-05,0.0035
+GO:0005509,calcium ion binding,NA,0.035,0.0052
+GO:0016798,"hydrolase activity, acting on glycosyl bonds",NA,NA,0.011
+GO:0016759,cellulose synthase activity,0.04,0.035,0.013
+GO:0016760,cellulose synthase (UDP-forming) activity,0.04,0.035,0.013
+GO:0046914,transition metal ion binding,NA,2.60E-05,0.013
+GO:0071949,FAD binding,NA,NA,0.014
+GO:0016758,"transferase activity, transferring hexosyl groups",0.0097,NA,0.015
+GO:0004553,"hydrolase activity, hydrolyzing O-glycosyl compounds",NA,NA,0.022
+GO:0015291,secondary active transmembrane transporter activity,NA,NA,0.024
+GO:0022804,active transmembrane transporter activity,NA,NA,0.026
+GO:0010333,terpene synthase activity,NA,0.023,0.029
+GO:0016682,"oxidoreductase activity, acting on diphenols and related substances as donors, oxygen as acceptor",0.035,NA,0.029
+GO:0016168,chlorophyll binding,NA,NA,0.031
+GO:0050660,flavin adenine dinucleotide binding,NA,NA,0.041
+GO:0016838,"carbon-oxygen lyase activity, acting on phosphates",NA,0.034,0.047
+GO:0042802,identical protein binding,NA,NA,0.047
+GO:0052716,hydroquinone:oxygen oxidoreductase activity,0.0097,NA,NA
+GO:0016757,"transferase activity, transferring glycosyl groups",0.019,NA,NA
+GO:0016645,"oxidoreductase activity, acting on the CH-NH group of donors",0.038,NA,NA
+GO:0015238,drug transmembrane transporter activity,NA,0.026,NA
+GO:0090484,drug transporter activity,NA,0.026,NA

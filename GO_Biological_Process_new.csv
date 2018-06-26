@@ -1,0 +1,67 @@
+GO_Term,Description,pan1/pan1,pan1/+,B73
+GO:0009698,phenylpropanoid metabolic process,0.0031,1.00E-04,0.0011
+GO:0006558,L-phenylalanine metabolic process,NA,0.00019,0.0011
+GO:0009800,cinnamic acid biosynthetic process,NA,3.00E-05,0.0014
+GO:0009803,cinnamic acid metabolic process,NA,3.00E-05,0.0014
+GO:0019748,secondary metabolic process,0.0082,0.00046,0.0015
+GO:0006559,L-phenylalanine catabolic process,NA,4.30E-05,0.0017
+GO:0009699,phenylpropanoid biosynthetic process,NA,0.0014,0.005
+GO:0050789,regulation of biological process,NA,0.0077,0.0083
+GO:0009765,"photosynthesis, light harvesting",NA,NA,0.0087
+GO:0072330,monocarboxylic acid biosynthetic process,NA,NA,0.01
+GO:0050794,regulation of cellular process,NA,0.0039,0.01
+GO:0055114,oxidation-reduction process,NA,NA,0.01
+GO:0030244,cellulose biosynthetic process,NA,0.0099,0.011
+GO:0044550,secondary metabolite biosynthetic process,NA,0.0041,0.015
+GO:0010817,regulation of hormone levels,NA,NA,0.015
+GO:0030243,cellulose metabolic process,NA,0.018,0.023
+GO:0006355,"regulation of transcription, DNA-templated",NA,0.0013,0.023
+GO:0071900,regulation of protein serine/threonine kinase activity,NA,NA,0.023
+GO:0009832,plant-type cell wall biogenesis,NA,NA,0.023
+GO:0018298,protein-chromophore linkage,NA,NA,0.023
+GO:2001141,regulation of RNA biosynthetic process,NA,0.0013,0.023
+GO:1903506,regulation of nucleic acid-templated transcription,NA,0.0013,0.023
+GO:0051252,regulation of RNA metabolic process,NA,0.0013,0.025
+GO:0006073,cellular glucan metabolic process,NA,NA,0.026
+GO:0044042,glucan metabolic process,NA,NA,0.026
+GO:0060255,regulation of macromolecule metabolic process,NA,0.004,0.026
+GO:0071554,cell wall organization or biogenesis,NA,NA,0.026
+GO:0019219,regulation of nucleobase-containing compound metabolic process,NA,0.0016,0.029
+GO:0080090,regulation of primary metabolic process,NA,0.0031,0.031
+GO:0031323,regulation of cellular metabolic process,NA,0.0031,0.031
+GO:0045229,external encapsulating structure organization,NA,NA,0.031
+GO:0019222,regulation of metabolic process,NA,0.0049,0.033
+GO:2000112,regulation of cellular macromolecule biosynthetic process,NA,0.0029,0.04
+GO:0010468,regulation of gene expression,NA,0.0041,0.04
+GO:0042445,hormone metabolic process,NA,0.017,0.04
+GO:0005976,polysaccharide metabolic process,NA,NA,0.04
+GO:0071555,cell wall organization,NA,NA,0.041
+GO:0051274,beta-glucan biosynthetic process,NA,NA,0.042
+GO:0044264,cellular polysaccharide metabolic process,NA,NA,0.043
+GO:0010556,regulation of macromolecule biosynthetic process,NA,0.0031,0.043
+GO:0009690,cytokinin metabolic process,NA,0.0041,0.043
+GO:0045859,regulation of protein kinase activity,NA,NA,0.043
+GO:0009063,cellular amino acid catabolic process,NA,0.0041,0.043
+GO:0009889,regulation of biosynthetic process,NA,0.0031,0.043
+GO:0046394,carboxylic acid biosynthetic process,NA,NA,0.043
+GO:0031326,regulation of cellular biosynthetic process,NA,0.0031,0.043
+GO:0001932,regulation of protein phosphorylation,NA,NA,0.043
+GO:0065007,biological regulation,NA,NA,0.045
+GO:0051171,regulation of nitrogen compound metabolic process,NA,0.0038,0.048
+GO:0019438,aromatic compound biosynthetic process,NA,0.0013,NA
+GO:1901362,organic cyclic compound biosynthetic process,NA,0.0016,NA
+GO:0006351,"transcription, DNA-templated",NA,0.0043,NA
+GO:0032774,RNA biosynthetic process,NA,0.0043,NA
+GO:0034754,cellular hormone metabolic process,NA,0.0052,NA
+GO:0097659,nucleic acid-templated transcription,NA,0.0052,NA
+GO:0034654,nucleobase-containing compound biosynthetic process,NA,0.01,NA
+GO:0018130,heterocycle biosynthetic process,NA,0.012,NA
+GO:0016054,organic acid catabolic process,NA,0.013,NA
+GO:0006855,drug transmembrane transport,NA,0.025,NA
+GO:0042493,response to drug,NA,0.025,NA
+GO:0015893,drug transport,NA,0.025,NA
+GO:0046395,carboxylic acid catabolic process,NA,0.029,NA
+GO:1901565,organonitrogen compound catabolic process,NA,0.043,NA
+GO:0046274,lignin catabolic process,0.0082,NA,NA
+GO:0046271,phenylpropanoid catabolic process,0.0082,NA,NA
+GO:0044262,cellular carbohydrate metabolic process,0.036,NA,NA
